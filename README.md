@@ -1,5 +1,5 @@
 # homogenization
-Homogenization code for 3D lattice structure.
+Homogenization code for 3D lattice structure. For more information you can visit http://www.intralatticepro.com/
 
 ![alt text](https://github.com/GuoyingDong/homogenization/blob/master/image/homogenization.JPG)
 

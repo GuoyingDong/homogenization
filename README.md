@@ -96,3 +96,7 @@ CH =
 0.0000    0.0000   -0.0000    0.0000   -0.0000    0.1489
     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Young's modulus surface:
+
+![alt text](https://github.com/GuoyingDong/homogenization/blob/master/image/1.JPG)

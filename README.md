@@ -1,9 +1,11 @@
 # homogenization
 Homogenization code for 3D lattice structure.
 
+![alt text](https://github.com/GuoyingDong/homogenization/blob/master/image/homogenization.JPG)
+
 "homo3d.m" is to calculate the homogenized material property of 3d lattice structures.
 
-"GenerateVoxel.m" is to generate the input matrix for homo3d.m.
+"GenerateVoxel.m" is to generate the voxel model for homo3d.m.
 
 "visual.m" is to plot the 3D Young's modulus surface indicating E along all directions.
 

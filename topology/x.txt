@@ -1,0 +1,19 @@
+//Grid  ID      x       y       z
+GRID    1       0       0       0       
+GRID    2       0.5     0.5     0.5     
+GRID    3       1       1       1       
+GRID    4       1       0       0       
+GRID    5       0       1       1       
+GRID    6       0       1       0       
+GRID    7       1       0       1       
+GRID    8       1       1       0       
+GRID    9       0       0       1       
+//Strut ID      Start   End
+STRUT   1       1       2       
+STRUT   2       2       3       
+STRUT   3       4       2       
+STRUT   4       2       5       
+STRUT   5       6       2       
+STRUT   6       2       7       
+STRUT   7       8       2       
+STRUT   8       2       9       

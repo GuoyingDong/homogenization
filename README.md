@@ -99,4 +99,4 @@ CH =
 
 The Young's modulus surface:
 
-![alt text](https://github.com/GuoyingDong/homogenization/blob/master/image/1.JPG)
+![alt text](https://github.com/GuoyingDong/homogenization/blob/master/image/1.jpg)

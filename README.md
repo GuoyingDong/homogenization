@@ -1,7 +1,7 @@
 # homogenization
 Please cite the following article if you use this code in your publications:
 
-Dong G, Tang Y, Zhao Y. A 149 Line Homogenization Code for 3D Cellular Materials Written in Matlab. ASME. J. Eng. Mater. Technol. 2018;():. doi:10.1115/1.4040555.
+Dong G, Tang Y, Zhao Y. A 149 Line Homogenization Code for Three-Dimensional Cellular Materials Written in matlab. ASME. J. Eng. Mater. Technol. 2018;141(1):011005-011005-11. doi:10.1115/1.4040555.
 
 Homogenization code for 3D lattice structure. For more information you can visit http://www.intralatticepro.com/
 

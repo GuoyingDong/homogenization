@@ -1,3 +1,5 @@
+# Update:
+The code is updated on 05/27/2025 to fix a problem for heterogeneous structures. The B_e matrix is updated to fix the inconsistency of xx,yy,zz,yz,xz,xy.
 # homogenization
 Please cite the following article if you use this code in your publications:
 

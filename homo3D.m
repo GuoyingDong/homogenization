@@ -129,9 +129,9 @@ for ii = 1:length(xx)
                 B_e(:,:,i_B) = [qxyz(1,i_B)   0             0;
                                 0             qxyz(2,i_B)   0;
                                 0             0             qxyz(3,i_B);
-                                qxyz(2,i_B)   qxyz(1,i_B)   0;
                                 0             qxyz(3,i_B)   qxyz(2,i_B);
-                                qxyz(3,i_B)   0             qxyz(1,i_B)];
+                                qxyz(3,i_B)   0             qxyz(1,i_B);
+                                qxyz(2,i_B)   qxyz(1,i_B)   0];
             end
             B = [B_e(:,:,1) B_e(:,:,2) B_e(:,:,3) B_e(:,:,4) B_e(:,:,5)...
                 B_e(:,:,6) B_e(:,:,7) B_e(:,:,8)];
